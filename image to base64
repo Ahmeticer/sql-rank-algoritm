@@ -1,0 +1,6 @@
+
+SELECT DOSYA FROM TBLEFATURABELGE WHERE rec_no = 110501 FOR XML RAW, BINARY BASE64 
+
+
+image veri tipindeki bir colonu base64 olarak dönüştürmek
+
